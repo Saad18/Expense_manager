@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Expense Manager</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="incom">Incom</string>
+    <string name="expense">Expense</string>
+    <string name="_000_00">000.00</string>
+
+    <string name="main_fab_icon">main_fab_icon</string>
+    <string name="type">Type:</string>
+    <string name="amount">Amount:</string>
+    <string name="_5_november_2020">5 November 2020</string>
+    <string name="log_in">Log In</string>
+    <string name="email">Email:</string>
+    <string name="password">Password:</string>
+    <string name="dashboard">DashBoard</string>
+    <string name="income">Income</string>
+    <string name="expense_manager">Expense Manager</string>
+
+</resources>

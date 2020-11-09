@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "446052310953",
+    "firebase_url": "https://expense-manager-26bbf.firebaseio.com",
+    "project_id": "expense-manager-26bbf",
+    "storage_bucket": "expense-manager-26bbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446052310953:android:d89152e0ec5bec21d7eeb8",
+        "android_client_info": {
+          "package_name": "com.saad.expensemanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446052310953-p8mjbjmv4kes1acbav1teht33l4rbpl6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVVoYiEj1BV8vvgqAPJ7I4yHKMSJ7sciA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446052310953-p8mjbjmv4kes1acbav1teht33l4rbpl6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
