@@ -2,7 +2,7 @@
 
 ![](images/expensemanager.png)
 
-###Components used in Expense Manager App:
+### Components used in Expense Manager App:
 * Navigation drawer.
 * CardView.
 * RecyclerView.
